@@ -1,0 +1,76 @@
+html, body {
+    /* background-color:rgb(81, 191, 255); */
+    background: url("./Image/BGIMG.jpg");
+    background-size: auto;
+    margin-left: 10px;
+    margin-right: 5px;
+    padding: 0px;
+  
+  }
+  canvas {
+    display: block;
+  }
+  .customButton{
+    font-size: 50px;
+    background-color: orange;
+    border: 2px solid white;
+    border-radius: 30px;
+    color: white;
+  }
+  .customButton:hover{
+    transform: scale(1.2);
+    background-color: blue;
+    cursor: pointer;
+  }
+  /* startButton.style('font-size', '50px');
+  startButton.style('background', 'orange');
+  startButton.style('border', '2px solid white');
+  startButton.style('border-radius', '30px');
+  startButton.style('color', 'white'); */
+  .customButton2{
+    font-size: 50px;
+    background-color: orange;
+    border: 2px solid white;
+    border-radius: 30px;
+    color: white;
+  }
+  .customButton2:hover{
+    transform: scale(1.2);
+    background-color: blue;
+    cursor: pointer;
+  }
+  /* instButton.style('font-size', '50px');
+  instButton.style('background', 'orange');
+  instButton.style('border', '2px solid white');
+  instButton.style('border-radius', '30px');
+  instButton.style('color', 'white'); */
+  .customButton3{
+    font-size: 50px;
+    background-color: orange;
+    border: 2px solid white;
+    border-radius: 30px;
+    color: white;
+  }
+  
+  .customButton3:hover{
+    transform: scale(1.2);
+    background-color: blue;
+    cursor: pointer;
+  }
+  h1{
+    color:rgb(0, 0, 0);
+    margin-bottom: auto;
+    margin-left: 850px;
+  }
+  .title{
+    color: red;
+  }
+  .controls{
+    color:red;
+  }
+  .line1{
+    color:blue;
+  }
+  .line2{
+    color: blue;
+  }
